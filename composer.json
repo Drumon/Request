@@ -1,7 +1,7 @@
 {
-    "name": "danillos/router",
-    "description": "Router",
+    "name": "drumon/request",
+    "description": "Request Handler",
     "require": {
-
+    	"php": ">=5.3.0"
     }
 }
