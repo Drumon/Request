@@ -1,5 +1,5 @@
 {
-    "name": "drumon/request",
+    "name": "Drumon/Request",
     "description": "Request Handler",
     "require": {
     	"php": ">=5.3.0"
