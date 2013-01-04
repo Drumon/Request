@@ -1,5 +1,5 @@
 {
-    "name": "Drumon/Request",
+    "name": "drumon/request",
     "description": "Request Handler",
     
     "require": {
@@ -8,7 +8,7 @@
 
     "autoload": {
         "psr-0": {
-            "Drumon\\Request": "src/"
+            "drumon\\request": "src/"
         }
     }
 }
